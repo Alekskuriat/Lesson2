@@ -74,7 +74,7 @@ public class HomeWork_2 {
 
         System.out.println("Задание №6");
 
-        int[] arrTaskSix = new int[]{1, 2, 3, 2, 1, 3, 4, 5, 6, 2, 3};
+        int[] arrTaskSix = new int[]{1, 1, 3, 2, 1, 3, 4, 5, 6, 1, 3};
 
         System.out.println(Arrays.toString(arrTaskSix));
 
